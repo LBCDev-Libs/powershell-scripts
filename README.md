@@ -19,7 +19,7 @@ Colección de scripts y módulos de PowerShell para facilitar tareas comunes en 
 Ejecuta en PowerShell:
 
 ```powershell
-git clone https://github.com/Luinux81/powershell-scripts.git
+git clone https://github.com/LBCDev-Libs/powershell-scripts.git
 cd powershell-scripts
 ```
 
